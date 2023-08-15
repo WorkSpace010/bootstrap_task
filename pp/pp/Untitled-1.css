@@ -1,0 +1,29 @@
+.jumbotron{
+    display: flex;
+    background: url("1.jpg") center no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+}
+.about{
+    text-align: center;
+    padding: 80px 0px;
+}
+.about1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.about2{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.container1{
+    background-color:darkgray;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0px;
+    width: 100%;
+}
+.container2{
+    padding: 100px 40px;
+}
